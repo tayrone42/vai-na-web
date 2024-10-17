@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+.secao {
+  width: 100vw;
+  height: 100vh;
+  font-size: 5rem;
+}
+
+#azul {
+  background-color: blue;
+}
+
+#amarelo {
+  background-color: yellow;
+}
+
+#vermelho {
+  background-color: red;
+}
+
+#rosa {
+  background-color: pink;
+}
+
+#verde {
+  background-color: green;
+}/*# sourceMappingURL=style.css.map */
